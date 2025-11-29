@@ -126,10 +126,3 @@ Auth state is managed in `frontend/src/context/AuthContext.jsx`. Use the Login p
 - This project doesn't include a license file by default. Add a `LICENSE` if you plan to open-source it.
 
 ---
-
-If you want, I can also:
-
-- Add more detailed API examples (curl snippets or Postman collection).
-- Add a short Admin quickstart that demonstrates creating categories and approving vendors.
-
-If you'd like any of those, tell me which and I'll add them to this README.
