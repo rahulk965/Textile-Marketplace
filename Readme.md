@@ -1,4 +1,4 @@
-# VenderMart — Textile Marketplace (backend + frontend)
+# SMart — Textile Marketplace (backend + frontend)
 
 **VenderMart** is a lightweight marketplace web app for textile vendors and administrators. It includes a Node/Express backend (Sequelize ORM) and a React + Vite frontend with Tailwind CSS utilities. This README explains how to set up, run, and contribute to the project locally.
 
